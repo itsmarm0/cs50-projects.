@@ -1,4 +1,4 @@
-Week 0 - Scratch Project
+# Week 0 - Scratch Project
 Title: Learning language with Peter & Jack
 
 Description: For my Week0 CS50 assignment, I created a small interactive game in Scratch. The project uses two sprites: two dinosaurs named Peter & Jack. The game begins with a short discussion between the sprites, after that, the player can interact by answering questions & gaining scores.
